@@ -1,0 +1,15 @@
+streamlit
+os
+re
+collections
+pandas
+numpy
+ortools
+typing
+time
+threading
+queue
+sys
+multiprocessing
+streamlit_autorefresh
+subprocess
